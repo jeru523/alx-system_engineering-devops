@@ -1,0 +1,1 @@
+Shell permissions including the following, how to switch current user to another user,printing effective username of the current user, printing all the groups the current user is part of, creating an empty file, adding executable permission to ther owner of the file

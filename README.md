@@ -1,1 +1,1 @@
-How to show a current working repository
+Shell variables and expansions"
